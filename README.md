@@ -13,6 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP, Kotlin],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap","tailwindcss"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         php: ["Laravel"],
+         python: ["Flask", "Django"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android"]
+   }
+};
+```
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
