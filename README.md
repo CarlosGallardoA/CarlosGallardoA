@@ -37,7 +37,7 @@ const aboutMe = {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-enrique-gallardo-ambrosio-9679b9213/">
+  <a href="https://www.linkedin.com/in/carlos-enrique-gallardo-ambrosio/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Carlos Enrique Gallardo Ambrosio's LinkedIn Profile" height="30" width="30">
   </a>
 
