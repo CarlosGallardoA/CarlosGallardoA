@@ -29,7 +29,7 @@ const aboutMe = {
          php: ["Laravel"],
          python: ["Flask", "Django"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "MySQL", "SQLServer", "SQLite3", "Firebase", "PostgreSQL"],
       mobile: ["Android"]
    }
 };
