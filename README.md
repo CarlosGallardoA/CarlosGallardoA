@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, Html, Css, Python, Java, Php, Kotlin],
+   code: [Javascript, Typescript, Html, Css, Python, Java, Php, Kotlin, C#],
    technologies: {
       frontEnd: {
          js: ["React", "Angular", "Vuejs"],
