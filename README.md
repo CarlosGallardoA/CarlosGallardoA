@@ -27,7 +27,7 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
          ts: ["Node", "Express"],
-         php: ["Laravel", "symfony"],
+         php: ["Laravel", "Symfony"],
          python: ["Flask", "Django"],
          c#: ["Entity Framework Core"]
       },
