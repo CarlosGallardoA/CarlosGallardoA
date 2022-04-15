@@ -26,12 +26,13 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         php: ["Laravel"],
+         ts: ["Node", "Express"],
+         php: ["Laravel", "symfony"],
          python: ["Flask", "Django"],
          c#: ["Entity Framework Core"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer", "SQLite3", "Firebase", "PostgreSQL"],
-      mobile: ["Android"]
+      mobile: ["Android", "Xamarin"]
    }
 };
 ```
