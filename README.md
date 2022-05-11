@@ -20,7 +20,7 @@ const aboutMe = {
    code: [Javascript, Typescript, Html, Css, Python, Java, Php, Kotlin, C#],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular", "Vuejs"],
+         js: ["React", "Angular", "Vuejs", "Nextjs],
          css: ["Bootstrap","tailwindcss"]
       },
       backEnd: {
