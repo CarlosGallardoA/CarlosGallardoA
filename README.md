@@ -32,7 +32,7 @@ const aboutMe = {
          c#: ["Entity Framework Core"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer", "SQLite3", "Firebase", "PostgreSQL"],
-      mobile: ["Android", "Xamarin", "IOS", "Flutter]
+      mobile: ["Android", "Xamarin", "IOS", "Flutter"]
    }
 };
 ```
