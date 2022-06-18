@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, Html, Css, Python, Java, Php, Kotlin, C#],
+   code: [Javascript, Typescript, Html, Css, Python, Java, Php, Kotlin, C#, Dart, Swift],
    technologies: {
       frontEnd: {
          js: ["React", "Angular", "Vuejs", "Nextjs"],
@@ -32,7 +32,7 @@ const aboutMe = {
          c#: ["Entity Framework Core"]
       },
       databases: ["MongoDB", "MySQL", "SQLServer", "SQLite3", "Firebase", "PostgreSQL"],
-      mobile: ["Android", "Xamarin"]
+      mobile: ["Android", "Xamarin", "IOS", "Flutter]
    }
 };
 ```
