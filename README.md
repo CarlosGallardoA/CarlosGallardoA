@@ -109,12 +109,10 @@ I'm a **Full Stack Developer** who doesn't just write code — I architect syste
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGallardoA&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=CarlosGallardoA&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGallardoA&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
   <img src="https://github-profile trophies.vercel.app/?username=CarlosGallardoA&theme=discord&no-bg=true&no-frame=true&column=4&row=2" height="180" />
 </div>
 
