@@ -2,18 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:10B981&height=220&section=header&text=Carlos%20Gallardo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20%7C%20Cloud%20%7C%20AI&descSize=18&descAlignY=52&descColor=94A3B8" />
 
-<a href="https://www.linkedin.com/in/carlos-enrique-gallardo-ambrosio/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/15237120/carlos-gallardo" target="_blank">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
-<a href="mailto:carlitosgallardo009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/CarlosGallardoA?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/carlos-enrique-gallardo-ambrosio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/15237120/carlos-gallardo" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> <a href="mailto:carlitosgallardo009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/CarlosGallardoA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -120,12 +109,12 @@ I'm a **Full Stack Developer** who doesn't just write code — I architect syste
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGallardoA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0c&title_color=8B5CF6&icon_color=8B5CF6&text_color=94A3B8&ring_color=8B5CF6" height="180" />
-  <img src="https://streak-stats.demolab.com?user=CarlosGallardoA&theme=tokyonight&hide_border=true&background=0a0a0c&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=94A3B8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGallardoA&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=CarlosGallardoA&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGallardoA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0c&title_color=8B5CF6&text_color=94A3B8&langs_count=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGallardoA&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
   <img src="https://github-profile trophies.vercel.app/?username=CarlosGallardoA&theme=discord&no-bg=true&no-frame=true&column=4&row=2" height="180" />
 </div>
 
